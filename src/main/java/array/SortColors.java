@@ -10,18 +10,5 @@ public class SortColors {
     public static void main(String[] args) {
 
         System.out.println(String.valueOf(null));
-
-//        try {
-//            System.out.println("starting");
-//            if (true) {
-//                return;
-//            }
-//            System.out.println("end");
-//        }catch (Exception e) {
-//            e.printStackTrace();
-//        }
-//        finally {
-//            System.out.println("final");
-//        }
     }
 }
